@@ -1,3 +1,10 @@
+
+# Zig
+zig-cache
+*.exe
+
+
+
 # Prerequisites
 *.d
 
