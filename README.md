@@ -118,6 +118,10 @@ cd benchmark/
 ./benchmark.sh
 ```
 
+> See https://github.com/Sahnvour/zig-benchmark
+> See https://benchmarksgame-team.pages.debian.net/benchmarksgame/why-measure-toy-benchmark-programs.html
+> See https://github.com/tiehuis/zig-benchmarks-game
+
 ## Resources
 
 * https://ziglearn.org/
